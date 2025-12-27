@@ -40,7 +40,7 @@ loading_bar()
 
 
 # ====== ตั้งค่าตรงนี้ ======
-SERVER_ICON_URL = "https://api-cdn.rule34.xxx/images/1051/b7b96cef649b08a122ddf0ef849ee>
+SERVER_ICON_URL = "https://api-cdn.rule34.xxx/images/1051/b7b96cef649b08a122ddf0ef849ee9b5.png"
 DELAY = 0.50  # หน่วงเวลา (วินาที)
 # ==========================
 
